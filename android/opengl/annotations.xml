@@ -1,0 +1,5 @@
+<root>
+    <item name='android.opengl.GLSurfaceView sGLThreadManager'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
